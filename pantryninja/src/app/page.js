@@ -95,7 +95,7 @@ export default function Home() {
       flexDirection="column"
       alignItems="center"
       p={4}
-      sx={{ backgroundColor: '#f0f0f0', height: '100vh' }}
+      sx={{ backgroundColor: '#3e2555', height: '100vh' }}
     >
       {/* Header */}
       <Box
@@ -134,7 +134,7 @@ export default function Home() {
           borderRadius="16px"
           boxShadow="0 8px 16px rgba(0, 0, 0, 0.1)"
           sx={{
-            background: 'linear-gradient(45deg, #FF5733, #FFC300)',
+            background: 'linear-gradient(45deg,	#663196,	#a58eb9)',
             color: 'white',
             maxHeight: '500px',
             overflowY: 'auto',
@@ -248,7 +248,7 @@ export default function Home() {
           borderRadius="16px"
           boxShadow="0 8px 16px rgba(0, 0, 0, 0.1)"
           sx={{
-            background: 'linear-gradient(45deg, #4CAF50, #8BC34A)',
+            background: 'linear-gradient(45deg,#663196,	#a58eb9)',
             color: 'white',
             maxHeight: '500px',
             overflowY: 'auto',
